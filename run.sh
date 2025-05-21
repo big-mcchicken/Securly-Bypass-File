@@ -5,4 +5,4 @@
 chmod +x index.securlybypass
 
 # Run the .securlybypass file
-./index.securlybypass
+./launcher.securlybypass
